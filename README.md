@@ -1,4 +1,4 @@
-# Hi! 
+# Hi! 👋
 
 I'm Madeleine Bergvik, soon to be a second year Front-End Developer student at Noroff.
 I enjoy minimal and colourful design, also trying to be good at javaScript. Feeling more confident at Html and CSS at the moment. 
