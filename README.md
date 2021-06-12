@@ -1,8 +1,9 @@
 # Hi! 👋
 
-I'm Madeleine Bergvik, soon to be a second year Front-End Developer student at Noroff.
+I'm Madeleine Bergvik living in Moss Norway, and soon to be a second year Front-End Developer student at Noroff.
 
-I enjoy minimal and colourful design, also trying to be good at JavaScript. Feeling more confident at HTML and CSS at the moment. 
+I enjoy minimal and colourful design, also trying to be the best at JavaScript. Feeling more confident at HTML and CSS at the moment but I'm confident that I will get there,
+I'm always up for a challenge, and love to learn new things to master new skills. 
 
 ## My programming skills
 
@@ -11,3 +12,7 @@ I enjoy minimal and colourful design, also trying to be good at JavaScript. Feel
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=madeleinecmarie&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=madeleinecmarie.madeleinecmarie)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madeleinecmarie&theme=tokyonight)
