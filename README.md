@@ -13,6 +13,6 @@ I'm always up for a challenge, and love to learn new things to master new skills
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=madeleinecmarie&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=madeleinecmarie.madeleinecmarie)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madeleinecmarie&theme=tokyonight)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=madeleinecmarie.madeleinecmarie)
