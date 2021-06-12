@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Madeleine Bergvik living in Moss Norway, and soon to be a second year Front-End Developer student at Noroff.
+I'm Madeleine Bergvik living in Moss Norway, and soon to be a second year Front-End Developer student at Noroff in Oslo.
 
 I enjoy minimal and colourful design, also trying to master JavaScript. Feeling more confident at HTML and CSS at the moment but I'm confident that I will get there eventually.
 I'm always up for a challenge, and love to learn new things to master new skills. 
