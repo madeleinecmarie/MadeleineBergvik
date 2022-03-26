@@ -13,6 +13,8 @@ Currently working on the last project exam using NextJs.
 
 ![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
 
+<img src="(https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
+
 ![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
 <img src="{https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white}" />
 
