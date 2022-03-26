@@ -5,7 +5,7 @@ I'm always up for a challenge, and love to learn new things to master new skills
 
 Currently working on the last project exam using NextJs. 
 
-## My programming skills
+## My programming and language skills
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
