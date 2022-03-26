@@ -1,8 +1,6 @@
 # Hi! 👋
 
-I'm Madeleine Bergvik living in Moss Norway, and soon to be a second year Front-End Developer student at Noroff in Oslo.
-
-I enjoy minimal and colourful design, also trying to master JavaScript. Feeling more confident at HTML and CSS at the moment but I'm confident that I will get there eventually.
+My name is Madeleine Bergvik, I am 26 years old and living in Moss Norway. I'm currently on my last year of Front-end development at Noroff in Oslo. 
 I'm always up for a challenge, and love to learn new things to master new skills. 
 
 ## My programming skills
@@ -10,6 +8,7 @@ I'm always up for a challenge, and love to learn new things to master new skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React]
 
 ### Other info
 
