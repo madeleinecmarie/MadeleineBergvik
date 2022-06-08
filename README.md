@@ -1,9 +1,9 @@
 # Hi! 👋
 
-My name is Madeleine Bergvik, I'm 26 years old and living in Moss Norway. I'm currently on my last year of Front-end development at Noroff in Oslo. 
-I'm always up for a challenge, and love to learn new things to master new skills.
+My name is Madeleine Bergvik, I'm 26 years old and living in Moss Norway. I'm currently on my last year of front end development at Noroff in Oslo. 
+I'm always up for a challenge, and love to learn new things to master new skills. 
 
-Currently working on the last project exam using NextJs. 
+Currently working on my portfolio: https://magical-mochi-ef492f.netlify.app/
 
 ## My programming and language skills
 
